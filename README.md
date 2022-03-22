@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 Tech-IS portfolio project created using HTML, CSS, and Bootstrap. This will be updated as I continue to create more Web Applications.
-[Live Heroku Deployment](https://portfolio-project-trin.herokuapp.com/
+[Live Heroku Deployment](https://portfolio-project-trin.herokuapp.com/)
 
 ## TECHNOLOGY USED
 *HTML
