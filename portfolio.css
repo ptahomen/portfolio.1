@@ -83,7 +83,6 @@ a.font-black {
   PROJECT
   
   ********/
-
 #project {
   margin: 60px auto;
   width: 80%;
@@ -94,7 +93,7 @@ a.font-black {
 }
 
 #project .card img {
-  width: 100%;
+  width: 10%;
 }
 
 #project .card-title {
