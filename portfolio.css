@@ -5,7 +5,7 @@ COMMON
 ********/
 
 .body {
-  font-family: "monospace";
+  font-family: sans-serif;
 }
 
 .font-primary {
@@ -15,6 +15,16 @@ COMMON
 .title-icon {
   font-size: 20px;
   font-weight: bold;
+}
+button.navbar-toggler {
+  position: absolute;
+  top: 0;
+  right: 25px;
+}
+.navbar-light .navbar-toggler {
+  color: rgba(0, 0, 0, 0.55);
+  border-color: rgba(0, 0, 0, 0.1);
+  border: 1px solid;
 }
 p {
   font-size: 14px;
@@ -93,7 +103,7 @@ a.font-black {
 }
 
 #project .card img {
-  width: 10%;
+  width: 100%;
 }
 
 #project .card-title {
